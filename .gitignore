@@ -1,0 +1,10 @@
+# 每工单的工作目录（s03 起生成）
+framework/work/
+
+# SQLite 数据库（s10 起生成）
+framework/state.sqlite
+framework/state.sqlite-wal
+framework/state.sqlite-shm
+
+# 看门狗的健康文件（s16 演示用）
+framework/health.json
